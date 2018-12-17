@@ -10,7 +10,7 @@ body{
     left:0px;
     width:180px;
     padding:20px 10px 500px 10px;
-    background-color:rgb(245,245,245)
+    background-color:rgb(242,242,242)
 }
 #header{
     margin:0px;
@@ -31,19 +31,22 @@ body{
 }
 #main{
     margin-top:30px;
-    margin-bottom:30px;
     margin-left:210PX;
+    margin-right:auto;
     padding-top:10px;
-    padding-bottom:30px;
     padding-left:50px;
-    padding-right:0px;
     line-height:1.6em;
+    width:900px;
 }
-#main p{
-    padding:0px;
-    margin:0px;
-    margin-bottom:10px;
+#main h2,h3{
+    color:rgb(20,20,20);
+}
+#main h2{
     font-size:1.2em;
+    font-weight:bold;
+}
+#main h3{
+    font-size:0.8em;
 }
 div.gallery{
     padding:0px;
@@ -55,7 +58,7 @@ h1,h2{
     color:rgb(46, 43, 43);
 }
 h2{
-    font-size:120%;
+    font-size:1.2em;
     font-weight:normal;
 }
 #title{
