@@ -32,11 +32,10 @@ body{
 #main{
     margin-top:30px;
     margin-left:210PX;
-    margin-right:auto;
+    margin-right:15%;
     padding-top:10px;
     padding-left:50px;
     line-height:1.6em;
-    width:900px;
 }
 #main h2,h3{
     color:rgb(20,20,20);
