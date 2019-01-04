@@ -1,2 +1,8 @@
-最近工作较忙，面临某个关键的节点。这几天估计未能按时更新。只能在这里码几个字，以后认真反省。
-不时抽自己几个大嘴巴子
+var a=1;
+funcation sum(b){
+    console.log(a);
+    a+=2;
+}
+sum(a);
+console.log(a);
+alert(a);

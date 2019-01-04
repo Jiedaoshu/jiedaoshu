@@ -155,11 +155,17 @@ j=++i（在使用前进行自增操作，可以理解为i=i++，j=i）
 
 
 
-错题分析：
-
-
-
-前端框架与接口：
+错题集：
+    var a=1;
+    function sum(b){
+    console.log(a);
+    a+=2;
+    }
+    var testValue1=sum(a);
+    var testValue2=console.log(a);
+    document.write(testValue1);
+    document.write(testValue2);
+输出结果1 3
 
 
 
