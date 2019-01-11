@@ -70,7 +70,7 @@ h2{
 a:link{
     color:rgb(60,60,60);
     text-decoration:none;
-    border-bottom:thin dotted rgb(60, 60, 60);
+    border:none;
 }
 a:visited{
     color:rgb(60,60,60);
@@ -84,6 +84,7 @@ a:hover{
     font-size:1.05em;
 }
 #this-page{
+    border:none;
     color:black;
     font-weight:normal;
     font-size:1.1em;
