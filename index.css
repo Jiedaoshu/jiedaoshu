@@ -30,9 +30,9 @@ body{
     text-align:left;
 }
 #main{
-    margin-top:15px;/*当采用竖比例图片时，修改数值为30px；*/
+    margin-top:30px;/*竖比例图片：修改数值为30px；横比例图片：修改数值为15px；*/
     margin-bottom:30px;
-    margin-left:300PX; /*当采用竖比例图片时，修改数值为450px；*/
+    margin-left:390PX; /*竖比例图片，修改数值为390px；横比例图片：修改数值为300px；*/
     padding-top:10px;
     padding-right:0px;
     padding-bottom:30px;
