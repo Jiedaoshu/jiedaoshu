@@ -30,12 +30,13 @@ body{
 #main h3{
     font-size:0.8em;
 }
-h1,h2{
+h1{
     color:rgb(46, 43, 43);
 }
 h2{
     font-size:1.2em;
     font-weight:normal;
+    color:rgb(90,90,90);
 }
 #title{
     margin:0px;
