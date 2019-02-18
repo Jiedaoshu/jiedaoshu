@@ -6,26 +6,21 @@ body{
 }
 div{
     padding:10px;
-    padding-bottom:800px;
-    margin-left:10%;
     margin-right:10%;
     line-height:2.2em;
-    background-color: rgb(245, 245, 245);
-
 }
 h1{
     font-size:150%;
-    font-weight:normal;
     color:rgb(90,90,90);
 }
 ul{
-    font-size:130%;
+    font-size:120%;
     font-weight:normal;
     color:rgb(90,90,90);
 }
 
 a:link{
-    color:rgb(60,60,60);
+    color:rgb(60, 60, 60);
     text-decoration:none;
     border:none;
 }
