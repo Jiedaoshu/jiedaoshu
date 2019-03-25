@@ -1,0 +1,15 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(51, 153, 255, 0.298039215686275);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:10px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
