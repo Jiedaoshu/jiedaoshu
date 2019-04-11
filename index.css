@@ -42,7 +42,7 @@ ul{
     line-height:1.6em;
 }
 #main p{
-    padding:0px;
+    padding-left:0px;
     margin:0px;
     margin-bottom:10px;
     font-size:1.2em;
@@ -68,7 +68,7 @@ h2{
 }
 a:link{
     border:none;
-    color:rgb(60,60,60);
+    color:rgb(60, 60, 60);
     text-decoration:none;
 }
 a:visited{
