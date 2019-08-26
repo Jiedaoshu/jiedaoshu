@@ -10,7 +10,7 @@ body{
     left:0px;
     width:170px;
     padding:20px 10px 500px 10px;
-    background-color:rgb(242,242,242)
+    background-color:rgba(214,237,255,39%)
     /* background:linear-gradient(to right,rgba(36, 122, 202, 0.36), rgba(36, 122, 202, 0.28)); */
 }
 #header{
