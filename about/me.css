@@ -52,6 +52,9 @@ ul{
     margin-left:0px;
     text-align: left;
 }
+#main img{
+    border-radius: 12px;
+}
 h1{
     color:rgb(46, 43, 43);
 }
