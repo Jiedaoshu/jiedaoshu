@@ -49,10 +49,12 @@ ul{
 div.gallery{
     white-space:nowrap;
 }
-img.gallery{
+.gallery img{
     padding:0px;
     margin:0px;
-    margin-right:12px;
+    margin-right:18px;
+    height: 600px;
+
 }
 h1{
     color:rgb(46, 43, 43);
