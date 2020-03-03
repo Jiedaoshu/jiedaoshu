@@ -9,8 +9,8 @@ body{
     top:0px;
     left:0px;
     width:170px;
-    padding:20px 10px 500px 10px;
-    background-color:rgb(242,242,242)
+    padding:20px 16px 500px 10px;
+    background-color:rgba(241,241,245,0.6)
 }
 #header{
     margin:5px;
