@@ -36,7 +36,7 @@ ul{
 }
 #main{
     padding:0px 0px 30px 50px;
-    margin-top:0px;/*竖比例图片：修改数值为30px；横比例图片：修改数值为0px；*/
+    margin-top:50px;/*竖比例图片：修改数值为30px；横比例图片：修改数值为36px；*/
     margin-bottom:30px;
     margin-left:280PX; /*竖比例图片，修改数值为390px；横比例图片：修改数值为300px；*/
     line-height:1.6em;
