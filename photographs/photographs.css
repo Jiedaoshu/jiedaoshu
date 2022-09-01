@@ -36,7 +36,7 @@ ul{
     text-align:left;
 }
 #main{
-    margin:36px 0px 30px 180px;
+    margin:80px 0px 30px 180px;
     padding:10px 0px 30px 50px;
     line-height:1.6em;
 }
@@ -52,8 +52,8 @@ div.gallery{
 .gallery img{
     padding:0px;
     margin:0px;
-    margin-right:8px;
-    height: 600px;
+    margin-right:4px;
+    height: 560px;
 
 }
 h1{
